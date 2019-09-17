@@ -1,7 +1,6 @@
 import React from 'react';
-import Card from './card.js'
 import Deck from './deck.js'
-import {If, When, Unless} from './if/index.js'
+// import {If, When, Unless} from './if/index.js'
 
 const Page = (props) => {
 

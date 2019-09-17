@@ -4,7 +4,7 @@ import Card from './card.js'
 
 const Deck = (props) => {
     let deck = props.deck
-    let i = props.i
+    // let i = props.i
 return(
     <section className="deck">
            <header><h2>{deck.title}</h2></header>
